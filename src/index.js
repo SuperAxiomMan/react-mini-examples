@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App title='My Fucking App'/>
   </React.StrictMode>,
   document.getElementById('root')
 );
